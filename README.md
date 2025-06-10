@@ -1,4 +1,4 @@
-# 19CS301-Module2
+# 19CS301-Module2.
 Exp.No:2(a)	ITERATIVE STATEMENTS- PRINTING N NATURAL NUMBERS
 ### AIM
 To create a python program for printing n natural numbers.
